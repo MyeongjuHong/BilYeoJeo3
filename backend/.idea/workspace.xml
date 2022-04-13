@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ad4af41-d3dd-4773-b8f8-09b94b06c732" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/main/java/com/example/test/TestApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/test/java/com/example/test/TestApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="27jbJs4DMN7Rnq8vgKoXnxAGMu1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ad4af41-d3dd-4773-b8f8-09b94b06c732" name="Changes" comment="" />
+      <created>1649836381400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649836381400</updated>
+    </task>
+    <servers />
+  </component>
+</project>
