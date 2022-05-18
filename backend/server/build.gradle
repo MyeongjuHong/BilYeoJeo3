@@ -18,6 +18,10 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	runtimeOnly 'com.h2database:h2'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	// https://mvnrepository.com/artifact/org.postgresql/postgresql
+	implementation group: 'org.postgresql', name: 'postgresql', version: '42.3.3' //추가
+	runtimeOnly 'org.postgresql:postgresql' //추가
+	compileOnly 'org.springframework.boot:spring-boot-starter-jdbc' //추가
 }
 
 tasks.named('test') {
