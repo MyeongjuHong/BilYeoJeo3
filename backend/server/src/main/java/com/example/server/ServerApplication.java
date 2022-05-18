@@ -36,11 +36,11 @@ public class ServerApplication implements ApplicationRunner {
 			System.out.println(connection.getMetaData().getUserName());
 
 			Statement statement = connection.createStatement();
-			String sql = "CREATE TABLE user(user_no INTEGER NOT NULL, user_name VARCHAR(255), PRIMARY KEY (user_no))";
+			String sql = "CREATE TABLE t_user(user_no INTEGER NOT NULL, user_name VARCHAR(255), PRIMARY KEY (user_no))";
 			statement.executeUpdate(sql);
 //			sql = "SELECT * FROM user";
 //			statement.executeUpdate(sql);
 		}
-		jdbcTemplate.execute("INSERT INTO user VALUES (1, '홍명주')");
+		jdbcTemplate.execute("INSERT INTO t_user VALUES (1, '홍명주')");
 	}
 }
